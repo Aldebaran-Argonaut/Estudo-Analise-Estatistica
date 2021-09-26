@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# **Analise Estatística**
 
-You can use the [editor on GitHub](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##  **Descrição:**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Consiste no processo de apresentação de alguns recursos estatisticos disponiveis na biblioteca scipy.
 
-### Markdown
+Links:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Amostragem Estratificada](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/AmostragemEstratificada.ipynb)
 
-```markdown
-Syntax highlighted code block
+[Amostragem Simples](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/AmostragemSimples.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+[Amostragem Sistematica](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/AmostragemSistematica.ipynb)
 
-- Bulleted
-- List
+[Anova](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Anova.ipynb)
 
-1. Numbered
-2. List
+[Distribuição Binomial](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Distribui%C3%A7%C3%A3o_Binomial.ipynb)
 
-**Bold** and _Italic_ and `Code` text
+[Distribuição de Poisson](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Distribui%C3%A7%C3%A3o_de_Poisson.ipynb)
 
-[Link](url) and ![Image](src)
-```
+[Distribuição Normal](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Distribui%C3%A7%C3%A3o_Normal.ipynb)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Distribuição T Student](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Distribui%C3%A7%C3%A3o_T_Student.ipynb)
 
-### Jekyll Themes
+[Qui quadrado](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Qui_Quadrado.ipynb)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Teste de Normalidade](https://github.com/Aldebaran-Argonaut/Estudo-Analise-Estatistica/blob/main/Teste_Normalidade.ipynb)
